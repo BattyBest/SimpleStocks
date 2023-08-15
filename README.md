@@ -34,4 +34,7 @@ Q: Is there a more convenient way to make a mod?
 A: "stat" and then "SetUpEditor" L1, then "stat" "Edit..." will open a editor thats more convenient than just augment and L#(#). A tree-like editor is also planned.
 
 Q: I added a lot of events in a mod and it crashed in next turn!
-A: Bug, currently if the screen fills up it crashes.
+A: Bug, currently if the screen fills up it crashes. Also, your lsit cannot be larger than 999 due to TI.
+
+Q: When is the next update
+A: idk
